@@ -21,21 +21,5 @@ class Header extends Component{
     }
 }
 
-// const Header = () => {
-//     return (
-//         <>
-//             <div className="header-cont">
-//                 <div className="header-list">
-//                     <div>BMX</div>
-//                     <div>Mountain</div>
-//                     <div>Road</div>
-//                     <div>Track</div>
-//                 </div>
-//                 <div className="straightline"></div>
-
-//             </div>
-//         </>
-//     )
-// }
 
 export default Header
