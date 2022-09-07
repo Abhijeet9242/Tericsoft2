@@ -1,0 +1,29 @@
+.header-icon {
+  display: flex;
+  width: 100%;
+  /* border:1px solid red; */
+  font-size: 60px;
+  justify-content: space-around;
+  padding: 7px;
+  background-color: #2C3639;
+  border-bottom: 3px solid black;
+  padding-bottom: 12px;
+  color: #F1EEE9;
+
+}
+
+.header-icon>div {
+  background-color: #2C3639;
+  padding: 15px;
+  border-radius: 50%;
+  border: 0.1px solid black;
+  cursor: pointer;
+}
+
+.header-icon>div:hover {
+  background-color: #5F7161
+}
+
+.header {
+  overflow-x: hidden;
+}

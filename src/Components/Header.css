@@ -1,0 +1,37 @@
+.header-cont {
+    width: 100%;
+    background-color: #2C3639;
+    height: 50px;
+
+
+
+
+}
+
+.header-list {
+    width: 500px;
+    background-color: #2C3639;
+
+    display: flex;
+    color: #F1EEE9;
+    justify-content: space-between;
+    margin: auto;
+
+
+
+
+}
+
+.header-list>div {
+    padding: 15px 10px;
+    font-size: 13px;
+    cursor: pointer;
+}
+
+
+.straightline {
+    height: 13px;
+    width: 100%;
+    background-color: #73777B;
+
+}
